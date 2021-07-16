@@ -1,2 +1,4 @@
 # Resume
-前端开发工程师王永杰-Tel：17633559293
+
+[王永杰的网络日志](https://xiaodongxier.com/)
+
